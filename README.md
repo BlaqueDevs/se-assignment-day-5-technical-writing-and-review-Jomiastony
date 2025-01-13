@@ -7,13 +7,17 @@ Understanding the expertise level of your audience helps you decide the complexi
 ## 2. What are some strategies to tailor your content to different audience types?
 
 i. Tech experts: Use specific technical terms, include code examples, and provide deeper explanations of concepts. Focus on functionality, performance, and technical specifications.
+
 ii. Non-technical users: Use simple language, define terms, include step-by-step guides, and avoid complex jargon. Focus on practical applications and use analogies to help clarify concepts.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
 i. Conduct surveys or interviews to assess their background.
+
 ii. Use feedback from previous interactions (e.g., comments or questions) to gauge their understanding.
+
 iii. Start with simple explanations and progressively introduce complexity, monitoring their responses for cues.
+
 iv. Review user documentation or support tickets to understand common pain points.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
