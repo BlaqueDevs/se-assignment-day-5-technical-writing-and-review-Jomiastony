@@ -23,17 +23,25 @@ iv. Review user documentation or support tickets to understand common pain point
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
 Use simple language and avoid jargon or provide definitions where necessary.
+
 Break down complex ideas into bite-sized chunks with clear examples.
+
 Use step-by-step instructions and clear, concise explanations.
+
 Incorporate visual aids like screenshots or videos to enhance understanding.
+
 Offer a glossary of terms to help users familiarize themselves with technical concepts.
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 
+It helps ensure that your message is clear, accessible, and easily understood by a wider audience, especially those without technical expertise. Technical jargon can confuse or alienate readers, reducing the effectiveness of your communication.
 
-
-## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
-
+## 6. "Start" is a familiar, everyday term, while "initiate" might sound formal or overly technical to many readers.
+For example: "Click Start the application" is clear to most users, while "Click Initiate the application" might cause confusion, especially for non-technical readers.
+Simplifying terms reduces cognitive load and ensures quicker understanding.
+"Start" is a familiar, everyday term, while "initiate" might sound formal or overly technical to many readers.
+For example: "Click Start the application" is clear to most users, while "Click Initiate the application" might cause confusion, especially for non-technical readers.
+Simplifying terms reduces cognitive load and ensures quicker understanding.
 
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
