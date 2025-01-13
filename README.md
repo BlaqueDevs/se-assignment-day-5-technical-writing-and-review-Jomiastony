@@ -37,14 +37,13 @@ Offer a glossary of terms to help users familiarize themselves with technical co
 It helps ensure that your message is clear, accessible, and easily understood by a wider audience, especially those without technical expertise. Technical jargon can confuse or alienate readers, reducing the effectiveness of your communication.
 
 ## 6. "Start" is a familiar, everyday term, while "initiate" might sound formal or overly technical to many readers.
-For example: "Click Start the application" is clear to most users, while "Click Initiate the application" might cause confusion, especially for non-technical readers.
-Simplifying terms reduces cognitive load and ensures quicker understanding.
-"Start" is a familiar, everyday term, while "initiate" might sound formal or overly technical to many readers.
-For example: "Click Start the application" is clear to most users, while "Click Initiate the application" might cause confusion, especially for non-technical readers.
-Simplifying terms reduces cognitive load and ensures quicker understanding.
 
+"Start" is a familiar, everyday term, while "initiate" might sound formal or overly technical to many readers. Simplifying terms reduce cognitive load and ensures quicker understanding.
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+
+
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
